@@ -1,0 +1,6 @@
+root:password
+root:12345
+root:secret
+root:guest
+root:toor
+root:1234
